@@ -6,6 +6,10 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://circleci.com/gh/badges/daily-tests">
+        <img src="https://github.com/SquirrelPL/SquirrelPL/blob/main/96c.gif"
+            alt="Every repo here is BeerWare!">
+    </a>
+</p>
 
-<!--
-**SquirrelPL/SquirrelPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
