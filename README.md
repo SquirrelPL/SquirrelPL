@@ -37,6 +37,7 @@ I am a Full Stack Developer from Poland.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="nestjs" **alt="nestjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" **alt="express" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" **alt="nextjs" width="40" height="40"/>
 </div>
 
 
