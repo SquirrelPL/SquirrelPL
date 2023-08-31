@@ -20,7 +20,7 @@ I am a Full Stack Developer from Poland.
     </a>
 </p>
 
-### Languages ​​I use or am interested in:
+### Languages/Tools ​​I use or am interested in:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
