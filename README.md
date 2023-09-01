@@ -11,7 +11,7 @@ I am a Full Stack Developer from Poland.
 
 - :zap: In my free time, I design UI/UX
 
-- :mailbox:How to reach me? wtite email: `dutka.krzychu@gmail.com`
+- :mailbox:How to reach me? write email: `dutka.krzychu@gmail.com`
 
 <p align="right">
     <a href="https://circleci.com/gh/badges/daily-tests">
