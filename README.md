@@ -14,10 +14,8 @@ I am a Full Stack Developer from Poland.
 - :mailbox:How to reach me? write email: `dutka.krzychu@gmail.com`
 
 <p align="right">
-    <a href="https://circleci.com/gh/badges/daily-tests">
         <img src="https://github.com/SquirrelPL/SquirrelPL/blob/main/96c.gif" width="100"
             alt="Every repo here is BeerWare!">
-    </a>
 </p>
 
 
